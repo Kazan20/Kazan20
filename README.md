@@ -25,6 +25,10 @@ Here are some of the key projects I've been working on:
 - **A stacked window manager** - Inspired by GlazeWM, implemented in Python.
 - **A 3D maze game** - Featuring raycasting techniques for rendering
 
+- And a new line up of projects, all of the projects like zyn-lw or kaol or kzev were in seperate groups ZYN group, Kazan Group, Kama group, etc so i am starting a new line up...
+- its called MICRO!!!
+- i will development on it on 2025/05/01
+
 ## 🛠️ Tech Stack
 I primarily work with:
 - **Programming Languages:** Python, C, Go, TypeScript, Java, Rust, Perl, Zig ( ngl python really sucks tbh )
