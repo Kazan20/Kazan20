@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! I'm an enthusiastic developer with a passion for creating innovative software and tools. I enjoy working on projects that involve programming languages, system utilities, AI models, and game development. My interests span a wide range of topics, including operating systems, encryption, markup languages, and virtual machines.
+Hello! I'm Ariel Zvinowanda an enthusiastic developer with a passion for creating innovative software and tools. I enjoy working on projects that involve programming languages, system utilities, AI models, and game development. My interests span a wide range of topics, including operating systems, encryption, markup languages, and virtual machines.
 
 ## 🚀 Projects
 Here are some of the key projects I've been working on:
@@ -23,27 +23,26 @@ Here are some of the key projects I've been working on:
 - **CVON (C::Void Object Notation)** - A structured data format inspired by ZON, JSON, and TOML.
 - **KNML** - A structured markup language that supports table structures, metadata, and nested tables.
 - **A stacked window manager** - Inspired by GlazeWM, implemented in Python.
-- **A 3D maze game** - Featuring raycasting techniques for rendering.
-- **An anime series** - Inspired by JoJo's Bizarre Adventure.
+- **A 3D maze game** - Featuring raycasting techniques for rendering
 
 ## 🛠️ Tech Stack
 I primarily work with:
-- **Programming Languages:** Python, C, Go, TypeScript, Java, Rust, Perl, Zig
-- **Frameworks & Tools:** Nix, Tkinter, OpenAI API, Protocol Buffers
-- **Operating Systems:** Windows 11 Pro, Linux (ZYN-lw)
+- **Programming Languages:** Python, C, Go, TypeScript, Java, Rust, Perl, Zig ( ngl python really sucks tbh )
+- **Operating Systems:** Windows 11 Pro, Linux (WSL - [Ubuntu or OpenSUSE])
 - **File Formats & Standards:** JSON, TOML, YAML, GGUF, CVON
 
 ## 🎯 Future Plans
 I'm always exploring new ideas and technologies. Some of my future goals include:
 - Enhancing my custom programming languages (C::Void, Kixd, KNML) with more powerful features.
-- Improving the AI capabilities of my chatbots and coding assistants.
 - Developing more advanced system utilities and encryption methods.
-- Expanding my Linux distribution and package manager with better functionality.
-- Creating engaging games with unique mechanics and storytelling.
+- Make a coding book ( will be out on 2025/04/09 )
 
 ## 📫 Contact
 If you're interested in any of my projects or want to collaborate, feel free to reach out!
+Bluesky: kama-mki.bsky.social
+Email: Kazan@outlook.ph, tapeaari20@gmail.com
+Business Email: taperazvino@transafreso.com
+Phone: null (Not working right now)
 
 ---
-⭐ If you like my work, consider following me on GitHub!
-
+⭐ If you like my work, consider following me on GitHub! Please?
