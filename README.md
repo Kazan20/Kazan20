@@ -3,6 +3,9 @@
 ## Introduction
 Hello! I'm Ariel Zvinowanda an enthusiastic developer with a passion for creating innovative software and tools. I enjoy working on projects that involve programming languages, system utilities, AI models, and game development. My interests span a wide range of topics, including operating systems, encryption, markup languages, and virtual machines.
 
+[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u9moYstrMDNVEw1lR1irTj5ageeI2?theme=tokyoNight)](https://gitroll.io/profile/u9moYstrMDNVEw1lR1irTj5ageeI2)
+
+
 ## 🚀 Projects
 Here are some of the key projects I've been working on:
 
