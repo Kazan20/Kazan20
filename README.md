@@ -48,9 +48,9 @@ I'm always exploring new ideas and technologies. Some of my future goals include
 ## 📫 Contact
 If you're interested in any of my projects or want to collaborate, feel free to reach out!
 Bluesky: kama-mki.bsky.social
-Email: Kazan@outlook.ph, tapeaari20@gmail.com
+Email: Kazan@outlook.ph, tapeaari20@gmail.com, taperazvi@gmail.com
 Business Email: taperazvino@transafreso.com
-Phone: null (Not working right now)
+Phone: +27 79 942 9779 (South African Phone Number)
 
 ---
 ⭐ If you like my work, consider following me on GitHub! Please?
