@@ -35,7 +35,7 @@ Here are some of the key projects I've been working on:
 
 ## 🛠️ Tech Stack
 I primarily work with:
-- **Programming Languages:** Python, C, Go, TypeScript, Java, Rust, Perl, Zig ( ngl python really sucks tbh )
+- **Programming Languages:** C, C++, Go, Rust, Java, Kotlin ( ngl python really sucks tbh )
 - **Operating Systems:** Windows 11 Pro, Linux (WSL - [Ubuntu or OpenSUSE])
 - **File Formats & Standards:** JSON, TOML, YAML, GGUF, CVON
 
