@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! I'm Ariel Zvinowanda an enthusiastic developer with a passion for creating innovative software and tools. I enjoy working on projects that involve programming languages, system utilities, AI models, and game development. My interests span a wide range of topics, including operating systems, encryption, markup languages, and virtual machines.
+yo ... im ariel zvinowanda.
 
 [![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u9moYstrMDNVEw1lR1irTj5ageeI2?theme=tokyoNight)](https://gitroll.io/profile/u9moYstrMDNVEw1lR1irTj5ageeI2)
 ![GitHub Snake Dark](https://github.com/Kazan20/Kazan20/raw/output/github-snake-dark.svg#gh-dark-mode-only)
@@ -28,16 +28,14 @@ Here are some of the key projects I've been working on:
 - **KNML** - A structured markup language that supports table structures, metadata, and nested tables.
 - **A stacked window manager** - Inspired by GlazeWM, implemented in Python.
 - **A 3D maze game** - Featuring raycasting techniques for rendering
+- **catch** - a alt to wget i gues
+- **calcbits** a lib in rust
 
 - And a new line up of projects, all of the projects like zyn-lw or kaol or kzev were in seperate groups ZYN group, Kazan Group, Kama group, etc so i am starting a new line up...
 - its called MICRO!!!
 - i will development on it on 2025/05/01
 
-## 🛠️ Tech Stack
-I primarily work with:
-- **Programming Languages:** C, C++, Go, Rust, Java, Kotlin ( ngl python really sucks tbh )
-- **Operating Systems:** Windows 11 Pro, Linux (WSL - [Ubuntu or OpenSUSE])
-- **File Formats & Standards:** JSON, TOML, YAML, GGUF, CVON
+- **Programming Languages:** C, C++, Rust,( ngl python really sucks tbh )
 
 ## 🎯 Future Plans
 I'm always exploring new ideas and technologies. Some of my future goals include:
